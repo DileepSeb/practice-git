@@ -1,0 +1,4 @@
+class claci
+{
+System.out.println("hello world");
+}
